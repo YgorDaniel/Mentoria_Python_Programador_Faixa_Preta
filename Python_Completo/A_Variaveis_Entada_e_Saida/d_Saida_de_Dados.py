@@ -1,5 +1,5 @@
 # Métodos de saidas de dados (Output)
-# Print() -> função utilizada para enviamos output para o usuário
+# Print() -> Método utilizado para enviamos output para o usuário
 
 def main():
     a = 1
