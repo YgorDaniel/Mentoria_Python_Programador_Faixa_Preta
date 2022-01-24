@@ -2,7 +2,7 @@
 '''Uma variável é um nome que se refere a um valor,
 são usadas para guardarmos valores que serão usados no programa''' 
 
-# Atribuição -> =
+# Atribuição -> (set) -> =
 '''Comando de atribuição cria uma nova variavel e lhe dá um valor'''
 # Exemplo
 primeiro_numero = 15
