@@ -45,7 +45,7 @@ def main():
     b = float(input("Digite o segundo numero "))
     multiplicacao = a * b
 
-    print("Multiplicação =",multiplicacao)
+    print(f"Multiplicação {a} * {b} = {multiplicacao}")
 main()
 
  # Exercicio 2.4
@@ -57,8 +57,9 @@ def main():
     b = float(input("Digite o segundo numero "))
     divisao = a / b
 
-    print("Divisão =",divisao)
+    print(f"Divisão {a} / 47{b} = {divisao}")
 main() 
+
 
 # Exercicio 2.5
 print("###############################") 
@@ -71,5 +72,5 @@ def main():
     d = float(input("Digite o quarto numero "))
     subtracao = a - b - c -d
 
-    print("Subtração =",subtracao)
+    print(f"Subtração {a}-{b}-{c}-{d} = {subtracao}")
 main() 
