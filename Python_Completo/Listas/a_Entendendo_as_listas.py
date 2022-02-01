@@ -23,10 +23,7 @@ def main():
 
     #Acresentar dados a lista
     lista_alunos.append('Novo Aluno')
-
-    print(lista_alunos)
-
-
-
+        
+    print(lista_alunos)    
 main()
     
