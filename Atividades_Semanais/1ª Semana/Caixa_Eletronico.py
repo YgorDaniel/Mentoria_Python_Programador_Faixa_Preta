@@ -1,25 +1,4 @@
-#Descrição pessoal
-'''
-Sou Ygor,  de Goiânia - GO. 
-Sou formado em engenharia de agrimensura.
-Trabalho em uma empresa de consultoria e projetos de infraestruturas.
-'''
-#Objetivos com a mentoria
-'''
-Tenho ciência que em três meses não me tornarei um Dev ninja samurai, busco ter uma 
-base solida da linguagem e ter um norte dos conhecimentos que devo buscar para me aprofunda, 
-a princípio para resolver processos do meu dia, dia no trabalho automatizar tarefas repetitivas. 
-Também estou pensando em um médio espaço de tempo migar para área de desenvolvimento web backend. 
-Além disso, me interessei pela possibilidade de faz uns freelances.
-'''
-#O quanto você já conhece
-'''
-De python em particular muito pouco, apenas vi alguns vídeos de tutoriais e algumas aulas do YouTube.
- Mas fiz um cursinho de logica de programação tambem do YouTube e tenho um pouco de conecimento de VBA.
-'''
 
-
-'''
 Programa para um caixa eletrônico. O programa deverá perguntar ao
 usuário a valor do saque e depois informar quantas notas de cada valor
 serão fornecidas. As notas disponíveis serão as de R$ 2,00 | R$ 5,00 | R$ 10,00 | R$ 20,00 | R$ 50,00 | R$ 100,00 reais.
