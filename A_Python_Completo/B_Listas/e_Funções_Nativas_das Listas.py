@@ -36,12 +36,28 @@ def main():
     print('#############################################')
     print('Função pop()=> Remove um elemento em um determinado indice da lista')
     #pop interage com a lista, apenas removendo o elemento do indice enviado por parâmetro 
+    '''
+    Imagina uma fila de lanches do BK
+    pedidos = [1204, 1205, 1206] 
+    Aí o pedido 1205 ficou pronto primeiro, pois foi bem rapidinho de fazer
+    pedido_pronto = pedidos.pop(1)
+    Como o pop retornou valor, você pode passar esse valor pra uma variável (pedido_pronto) 
+    Em seguida entregar ao cliente
+    entregar_ao_cliente(pedido_pronto)
+    pedidos => [1204, 1206]
+    '''
     nomes_p.pop(3)
     print(nomes_p)
 
     print('#############################################')
     print('Função del()=> Remove um elemento em um determinado indice da lista') 
     #del remove o elemento passado por parâmetro(envio um elemento)
+    ''' 
+    Imagina tem um dado inválido na lista:
+    errado = [1,2, 'a', 3]
+    errado.del(2)
+    errado => [1,2,3]
+    '''
     del(nomes_p[2])
     print(nomes_p)
 
@@ -68,5 +84,10 @@ def main():
     print('Consegue atribuir')
     lista_numeros02 = sorted(lista_numeros01)      
     print(lista_numeros02)
+
+    print('#############################################')   
+    print('Função Len()=> Retorna o tamanho da listas')
+    lista = [1, 2, 3, 4, 5, 'a', 'b', 'c']
+    print(len(lista))
 
 main()
